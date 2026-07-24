@@ -33,3 +33,19 @@ COVID-19 India Dataset (January 2020 – March 2020)
 
 ## Conclusion
 This project demonstrates how data visualization helps convert raw data into meaningful insights. The dashboard provides a clear overview of COVID-19 trends and supports better understanding of the data.
+## Visual Outputs
+
+### Line Chart
+![Line Chart](Linechart.jpeg)
+
+### Bar Chart
+![Bar Chart](Barchart.jpeg)
+
+### Pie Chart
+![Pie Chart](Piechart.jpeg)
+
+### Scatter Plot
+![Scatter Plot](Scatterplot.jpeg)
+
+### Dashboard
+![Dashboard](Dashboard.jpeg)
